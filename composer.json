@@ -1,0 +1,18 @@
+{
+    "name": "devweb/post-view-count",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Devweb\\PostViewCount\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rabiul",
+            "email": "rabiulislam2812@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
