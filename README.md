@@ -14,7 +14,7 @@ This plugin is record the number of views a post has received. It display the vi
 
 > ## Note: This plugin is now compatible with PHP version 8.
 
-<h2>GDPR AND PRIVACY</h2>
+<h2>How to Use</h2>
 
 This section describes how to install the plugin and get it working.
 
